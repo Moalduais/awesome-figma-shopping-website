@@ -62,4 +62,4 @@ This project demonstrates a complete UX design process for an e-commerce website
 
 ---
 
-© 2025 Mohammed Al-Saeedi. All rights reserved.
+© 2025 Mohammed Al-Duais. All rights reserved.
